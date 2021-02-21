@@ -2,7 +2,7 @@
 
 This project aim is to build a port of Vaadin Fusion for .Net.
 
-As far as I ave seen, Vaadin's Fusion project aims to generate a typescript client for java rest apis (defined with the jax-rs specification).
+As far as I have seen, Vaadin's Fusion project aims to generate a typescript client for java rest apis (defined with the jax-rs specification).
 
 So, the project should be quite easy and straightforward. In java you just need to create an annotation processor and use some java reflection to build the TS code and, if you want, call npm to package and publish at the npm registry. In .Net we should easily be able to do the same. You know, it's just some meta-programming/code generation ;).
 
@@ -19,6 +19,8 @@ I understand the first step will be to dig deeper inside the Fusion project, in 
 As soon as the requisites are ready, I will do the analysis and design of the solution. Here I presume that perhaps I will open both approaches (generating the ts code from .Net and relying on Swagger).
 
 Then just write the code and unit tests, create the CI pipeline using the Github Actions for publishing the artifacts at NuGet, create the documentation inside the project wiki, create a demo website, .... I will try to do everything inside Github (issue tracking, kanbans, CI, ...). 
+
+At the end, when the first release is out, do some marketing stuff to let the people know about the project.
 
 ## Conclusion
 
