@@ -8,7 +8,7 @@ So, the project should be quite easy and straightforward. In java you just need 
 
 When I faced this same problem before (consuming java rest apis from the client side) I peferred to rely on Swagger, integrating it inside our build pipeline, and it run quite smoothly. Today I would say that, when it comes to join together the frontend and backend teams, I would just rely on Swagger to define the apis and let both team (frontend and backend) create their client/server side code from Swagger itself. Anyway, we are now talking about the use case where you are creating the api from the server side ;).
 
-I must also say that one of the requisites for this project is to be done using the Community Friday (CF) time that we have at Vaadin. I joind the Vaadin company at 2020, January 1st, and the company gives you some time (CF) for doing this kind of open source projects for helping the community. So, this project must be resolved using that time.
+I must also say that one of the requisites for this project is to be done using the Community Friday (CF) time that we have at Vaadin. I joind the Vaadin company at 2021, January 1st, and the company gives you some time (CF) for doing this kind of open source projects for helping the community. So, this project must be resolved using that time.
 
 ## The plan
 
