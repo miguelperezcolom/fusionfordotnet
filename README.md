@@ -26,6 +26,10 @@ At the end, when the first release is out, do some marketing stuff to let the pe
 
 So, that's it. Quite a beautiful and tiny project. The only problem is that I'm not sure if I will be able to steak to the CF time, and I will finish working on it during my free time ;)
 
+## Documentation
+
+- [010. Analysis](https://docs.google.com/document/d/1FaDw_clCTbwD4afMGLMg4LuV-GCynWqcbN4N5j8Oko8/edit?usp=sharing)
+
 
 
 
